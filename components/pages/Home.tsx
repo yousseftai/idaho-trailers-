@@ -8,7 +8,7 @@ const Home: React.FC = () => {
       <section className="relative h-[60vh] md:h-[80vh] flex items-center justify-center text-center text-white overflow-hidden">
         <div className="absolute inset-0 bg-black opacity-40 z-10"></div>
         <img 
-            src="https://picsum.photos/seed/idahotrailerhero/1920/1080" 
+            src="https://www.onlinelogomaker.com/blog/wp-content/uploads/2020/10/bdc22a2216505e157bb11f0f5826068b.jpeg" 
             alt="Trailer on an open road in Idaho" 
             className="absolute inset-0 w-full h-full object-cover"
         />
